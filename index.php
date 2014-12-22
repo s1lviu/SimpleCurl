@@ -4,7 +4,7 @@
 //Author: Silviu Bogdan Stroe
 //Contact: silviu[at]silviu-s.com - www.silviu-s.com
 include('curl.php');
-$obj = new curl;
+$obj = new SimpleCurl;
 	$obj->url("https://www.whatismybrowser.com/developers/what-http-headers-is-my-browser-sending"); //set url
 	$obj->referer("https://rstforums.com/"); //set referer
 	$obj->cookies(true);  //disable or enable cookies from file
