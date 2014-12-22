@@ -1,4 +1,7 @@
 	<?php
+//Simple Curl
+//Author: Silviu Bogdan Stroe
+//Contact: silviu[at]silviu-s.com - www.silviu-s.com
 	class curl
 	{
 		public function url($url)
