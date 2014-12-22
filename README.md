@@ -19,4 +19,3 @@ $obj->useragent('User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:34.0) Ge
 //$obj->post(array('field1' => 'value1', 'field2'=> 'value2')); //example for make HTTP-POST for fields or files. 
 echo $obj->getdata(); //get result
 ?>
-da
