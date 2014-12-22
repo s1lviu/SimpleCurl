@@ -1,6 +1,5 @@
 SimpleCurl
 ==========
-
 Simple and easy to use php class with examples
 
 <?php
