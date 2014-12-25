@@ -6,7 +6,7 @@
 include('curl.php');
 $obj = new SimpleCurl;
 	$obj->url("https://www.whatismybrowser.com/developers/what-http-headers-is-my-browser-sending"); //set url
-	$obj->referer("https://rstforums.com/"); //set referer
+	$obj->referer("https://silviu-s.com/"); //set referer
 	$obj->cookies(true);  //disable or enable cookies from file
 	$obj->followredirect(true);  //follow or not HTTP redirects
 	$obj->timeout(10); //connection timeout
